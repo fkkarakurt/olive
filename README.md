@@ -8,7 +8,7 @@ Olive is a web server developed in C that supports static/dynamic web pages from
 Web servers communicate with clients (i.e. browsers) using the HTTP protocol, which in turn is based on the TCP/IP protocol. The TCP communication interface provided by the Linux system was used to implement the HTTP protocol in Olive.
 ## Run it on your computer
 
-Clone the Project after Forking:
+Clone the Project after Fork:
 
 ```bash
   git clone https://github.com/fkkarakurt/olive
